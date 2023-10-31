@@ -6,7 +6,11 @@ Drag in the GameScene and play.
 The codes is in Assets\Script\C# scripts.
 
 Control:
+
 Z: Attack
+
 X: Shoot
+
 C: Dash
+
 V: Block
